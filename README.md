@@ -1,4 +1,4 @@
-# algo-songhee
+# 알고리즘 공부🙌
 
 ### 📝 Week03
 * BJ1978: https://dogandbird.tistory.com/25

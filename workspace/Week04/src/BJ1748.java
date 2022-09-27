@@ -19,7 +19,7 @@ public class BJ1748 {
 			// result 변수안에 들어온 n의 자리수 누적 
 			result += digit;
 
-			System.out.printf("현재 자리수는 %d, temp값은 %d, result는 %d\n", digit, temp, result);
+			//System.out.printf("현재 자리수는 %d, temp값은 %d, result는 %d\n", digit, temp, result);
 		}
 		
 		System.out.println(result);

@@ -5,3 +5,4 @@
 * BJ2609: https://dogandbird.tistory.com/24
 * BJ2309: https://dogandbird.tistory.com/26
 * BJ1748: https://dogandbird.tistory.com/27
+* BJ10972: https://dogandbird.tistory.com/28
